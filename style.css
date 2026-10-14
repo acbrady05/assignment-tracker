@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+.banner {
+    height: 250px;
+    background-image: url("banner.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    background-color: #1e3c72;
+}

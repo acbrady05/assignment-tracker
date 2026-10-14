@@ -11,6 +11,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    color:black;
+    color:white;
     background-color: #1e3c72;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
 }
